@@ -22,4 +22,5 @@ https://recordit.co/CPYdhEg76U
 
 ### Notes
 Describe any challenges encountered while building the app.
-  I feel like I came across a lot of small techincal issues throughout the assignment, but I debugged them with the help of the tutors and google. It was definitely an educational experience.
+
+I feel like I came across a lot of small techincal issues throughout the assignment, but I debugged them with the help of the tutors and google. It was definitely an educational experience.
